@@ -64,5 +64,5 @@ The [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) is
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/fashion-mnist-classifier.git
-   cd fashion-mnist-classifier
+   git clone https://github.com/your-username/Deep-Learning-FashionMNIST.git
+   cd Deep-Learning-FashionMNIST
