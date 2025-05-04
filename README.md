@@ -9,8 +9,6 @@ A machine learning project for classifying fashion images using the Fashion MNIS
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [How to Run](#how-to-run)
-- [Future Work](#future-work)
-- [License](#license)
 
 ## Overview
 
