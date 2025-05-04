@@ -43,7 +43,6 @@ The [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) is
 
 ## Model Architecture
 
-*(Example: for a simple CNN)*  
 - Input layer: 28x28 grayscale image  
 - Convolutional Layer (Conv2D)  
 - Max Pooling Layer  
@@ -53,11 +52,7 @@ The [Fashion MNIST dataset](https://github.com/zalandoresearch/fashion-mnist) is
 
 ## Results
 
-- Training accuracy: ~XX%  
-- Test accuracy: ~XX%  
-- Loss and accuracy plots are available in the notebook/results folder.
-
-*(You can also include a confusion matrix or sample predictions here.)*
+- Loss and accuracy plots are available in the notebook file.
 
 ## How to Run
 
